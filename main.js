@@ -26,7 +26,7 @@ $(document).ready(function() {
            $("#answer").html("I am a little cold it is" +"  "+outside+" "+"outside");
        }
         if(outside >= 60){
-           $("#answer").html("I am feeling grate it is" +"  "+outside+" "+"outside");
+           $("#answer").html("I am feeling awsome it is" +"  "+outside+" "+"outside");
        }
         if(outside >= 70){
            $("#answer").html("I am feeling ok it is" +"  "+outside+" "+"outside");
